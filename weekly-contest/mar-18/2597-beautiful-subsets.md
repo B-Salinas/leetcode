@@ -1,3 +1,5 @@
+# The Number of Beautiful Subsets
+
 **NEED TO FORMAT**
 
 You are given an array nums of positive integers and a positive integer k.
