@@ -1,2 +1,8 @@
 # leet-code
-Me doing leetcode and saving my work
+
+## Easy :)
+- [724. Find Pivot Index]()
+
+## Medium :|
+
+## Hard :(
