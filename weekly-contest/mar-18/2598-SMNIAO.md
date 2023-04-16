@@ -1,4 +1,6 @@
-# [2598](https://leetcode.com/contest/weekly-contest-337/problems/smallest-missing-non-negative-integer-after-operations/). Smallest Missing Non-negative Integer After Operations
+# Smallest Missing Non-negative Integer After Operations
+
+[2598](https://leetcode.com/contest/weekly-contest-337/problems/smallest-missing-non-negative-integer-after-operations/)
 
 **NEED TO FORMAT**
 
