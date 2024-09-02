@@ -8,7 +8,7 @@ You can return the answer in any order.
 
 ---
 
-### [Submission 1](/easy/1-two-sum/1-two-sum.js)
+### [Submission 1](/easy/1-two-sum/1-two-sum-1.js)
 
 Runtime: 103 ms | Beats 32.93%  
 Memory: 49.78 MB | Beats 63.84%
