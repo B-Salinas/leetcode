@@ -12,6 +12,7 @@ Given an integer array `nums` where the elements are sorted in ascending order, 
  *     this.right = (right===undefined ? null : right)
  * }
  */
+
 /**
  * @param {number[]} nums
  * @return {TreeNode}

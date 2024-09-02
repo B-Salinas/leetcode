@@ -10,6 +10,6 @@ Given an integer array `nums` where the elements are sorted in **ascending order
 ### [Submission 1](/easy/108-convert-sorted-array-bst/108-convert-sorted-array-bst-1.js)
 
 Runtime: 58 ms | Beats 90.13%  
-Memory: 52.52 MB | Beats 68.46%
+Memory: 52.52 MB | Beats 68.46%  
 
 - Used recursion to find the middle element of the subarray and construct the left and right subtrees, while ensuring tree is height-balanced.
