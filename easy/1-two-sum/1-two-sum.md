@@ -24,7 +24,7 @@ Memory: 51.62 MB | Beats 21.51%
 
 ### [Submission 3](/easy/1-two-sum/1-two-sum-3.js)
 
-Runtime: 60 ms | Beats 67.98%
+Runtime: 60 ms | Beats 67.98%  
 Memory: 52.35 MB | Beats 7.48%
 
 - Sorted array first to get `O(n log n)` time complexity. Used a two pointer approach to find the solution.
