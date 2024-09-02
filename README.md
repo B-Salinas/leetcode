@@ -1,10 +1,18 @@
-# leet-code
-Just documenting my leetcode journey and practicing, feel free to leave thoughts!
 
-## Easy :)
-- [724. Find Pivot Index](https://github.com/B-Salinas/leet-code/blob/main/easy/724-pivot-index.md)
-- [1480. Running Sum of 1d Array](https://github.com/B-Salinas/leet-code/blob/main/easy/1480-running-sum.md)
 
-## Medium :|
 
-## Hard :(
+
+---
+
+# Leet Code
+Grinding Leetcode (sometimes with Claude 3.5 Sonnet)!
+
+### Easy
+- 108. Convert Sorted Array to Binary Search Tree
+- 724. Find Pivot Index
+- 1480. Running Sum of 1D Array
+
+### Medium
+- 109. Convert Linked List to Binary Search Tree
+
+### Hard
