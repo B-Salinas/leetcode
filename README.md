@@ -1,6 +1,6 @@
 # Leet Code
 
-getting cracked w Cursor + Claude 3.5 Sonnet
+getting cracked w ~~Cursor +~~ Claude 3.5 Sonnet
 
 ### Easy
 
