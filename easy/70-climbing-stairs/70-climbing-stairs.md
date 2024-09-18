@@ -19,3 +19,10 @@ Runtime: 58 ms | Beats 16.62%
 Memory: 49.44 | Beats 7.29%
 
 - Directly calculated the nth Fibonacci Number, which is how this problem is solved, by using Binet's formula
+
+### [Submission 3](/easy/70-climbing-stairs/70-climbing-stairs-3.js)
+Runtime: 42 ms | Beats 92.94%  
+Memory: 48.71 mb | Beats 50.4%  
+
+- Fibonacci numbers can be expressed with matrix exponentiation. We utilize the special property of  
+$[[1,1],[1,0]]^n = [ [F(n+1), F(n)], [F(n), F(n-1)] ]$.

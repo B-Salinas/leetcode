@@ -21,7 +21,7 @@ function matrixMultiply(a, b) {
       a[1][0] * b[0][1] + a[1][1] * b[1][1],
     ],
   ];
-};
+}
 
 function matrixPower(matrix, n) {
   if (n === 1) return matrix;
@@ -30,15 +30,18 @@ function matrixPower(matrix, n) {
     return matrixMultiply(half, half);
   }
   return matrixMultiply(matrix, matrixPower(matrix, n - 1));
-};
+}
 
 // actual function for leetcode
 var climbStairs = function (n) {
   if (n <= 1) return 1;
-  let baseMatrix = [[1, 1],[1, 0]];
-  let resultMatrix = matrixPower(baseMatrix, n - 1);
-  return resultMatrix[0,0];
+  let baseMatrix = [
+    [1, 1],
+    [1, 0],
+  ];
+  let resultMatrix = matrixPower(baseMatrix, n);
+  return resultMatrix[(0, 0)];
 };
 
-// Tuesday, September 17, 2024 @ 
+// Tuesday, September 18, 2024 @ 3:00 PM CST
 // B Salinas + Claude 3.5 Sonnet
