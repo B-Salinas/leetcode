@@ -16,6 +16,8 @@ getting cracked w ~~Cursor +~~ Claude 3.5 Sonnet
 
 ### Hard
 
+Not there yet!
+
 ### Weekly Contests
 
 - [2023-Mar-18]()
