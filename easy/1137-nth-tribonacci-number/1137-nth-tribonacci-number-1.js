@@ -10,7 +10,7 @@ Given n, return the value of Tn.
  * @param {number} n
  * @return {number}
  */
-var tribonacci = function(n) {
+var tribonacci = function (n) {
   if (n == 0) return 0; // 0 index or 1st term
   if (n == 1 || n === 2) return 1; // 1 index/2 index or 2nd/3rd term
 
@@ -27,10 +27,9 @@ var tribonacci = function(n) {
   }
 
   return t2;
-  
 };
 
-// comments I had on leetcode 
+// comments I had on leetcode
 /**
   // hash maps
   // memoization
@@ -47,3 +46,6 @@ var tribonacci = function(n) {
 
   // 3x3 matrix, I just wouldn't know what it looks like
  */
+
+// Friday, September 20, 2024 @ 4:00 AM CST
+// B Salinas + Claude 3.5 Sonnet

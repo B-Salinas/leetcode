@@ -15,9 +15,17 @@ var fib = function (n) {
   if (n === 0) return 0;
   if (n === 1) return 1;
 
-  for (let i = 2; i <= n; i++) {}
+  let f0 = 0;
+  let f1 = 1;
+  let fn;
 
-  // could iterate through, do memorization or a hash map, and matrix exponentation
+  for (let i = 2; i <= n; i++) {
+    let fn = f0 + f1;
+    f0 = f1;
+    f1 = fn;
+  }
+
+  return f1;
 };
 
 // Wednesday, September 18, 2024 @ 3:27 PM CST
