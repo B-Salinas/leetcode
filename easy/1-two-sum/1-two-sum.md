@@ -13,7 +13,7 @@ You can return the answer in any order.
 Runtime: 103 ms | Beats 32.93%  
 Memory: 49.78 MB | Beats 63.84%
 
-- Brute force approach with `O(n^2)` time complexity..
+- Brute force approach with `O(n^2)` time complexity.
 
 ### [Submission 2](/easy/1-two-sum/1-two-sum-2.js)
 
