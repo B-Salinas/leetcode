@@ -9,10 +9,9 @@ Given `n`, calculate `F(n)`.
 
 ---
 
-### [Submission 1](/easy/509-fibonacci-number/509-fibonacci-number-1.js)  
+### [Submission 1](/easy/509-fibonacci-number/509-fibonacci-number-1.js)
 
-Runtime:  
-Memory:  
+Runtime: 58 ms | Beats 50.31%  
+Memory: 49.12 mb | Beats 7.30%
 
-- 
-
+- Standard approach that builds the sequence iteratively compared to recursively
