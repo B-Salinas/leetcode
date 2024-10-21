@@ -2,25 +2,6 @@
 
 getting cracked w ~~Cursor +~~ Claude 3.5 Sonnet
 
-🚨 = Haven't refactored
-❎ = Not complete yet
-
-## Weekly Contests
-
-### March 18, 2023
-- [🚨 2595. Number of Even and Odd Bits](/weekly-contest/mar-18/2595-even-odd-bits.md)
-- [🚨 2596. Check Knight Tour Configuration](/weekly-contest/mar-18/2596-knight-tour-config.md)
-- [🚨 2597. The Number of Beautiful Subsets](/weekly-contest/mar-18/2597-beautiful-subsets.md)
-- [🚨 2598. Smallest Missing Non-negative Integer After Operations](/weekly-contest/mar-18/2598-SMNIAO.md)
-
-## Hard
-
-### [❎ 214. Shortest Palindrome]()
-
-## Medium
-
-### [🚨 109. Convert Sorted List to Binary Search Tree]()
-
 ## Easy
 
 ### [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
@@ -83,7 +64,14 @@ getting cracked w ~~Cursor +~~ Claude 3.5 Sonnet
 - Runtime: 41 ms | Beats 94.72%
 - Memory: 48.62 mb | Beats 64.44%
 
-### [🚨 ❎ 724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
+### [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
 
-### [🚨 ❎ 1480. Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
+### [1480. Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 
+## Medium
+
+### [109. Convert Sorted List to Binary Search Tree]()
+
+## Hard
+
+### [214. Shortest Palindrome]()
