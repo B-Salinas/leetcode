@@ -1,0 +1,3 @@
+WEEKLY CONTEST
+
+⚠️ 2025 FALL 01/13 - Friday, September 26 @ 6:51 PM CST
