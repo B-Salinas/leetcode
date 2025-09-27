@@ -1,0 +1,5 @@
+CONTESTS
+
+Weekly
+
+Biweekly
