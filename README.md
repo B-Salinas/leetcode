@@ -11,18 +11,18 @@
 │                 └─── 2598. Smallest Missing Non-Negative Integer After Operations
 └─── problems/
       ├── easy/
-      │     ├─── 1. Two Sum
-      │     ├─── 70. Climbing Stairs
-      │     ├─── 108. Convert Sorted Array to Binary Search Tree
-      │     ├─── 509. Fibonacci Number
-      │     ├─── 724. Find Pivot Index
+      │     ├─── ---1. Two Sum
+      │     ├─── --70. Climbing Stairs
+      │     ├─── -108. Convert Sorted Array to Binary Search Tree
+      │     ├─── -509. Fibonacci Number
+      │     ├─── -724. Find Pivot Index
       │     ├─── 1137. N-th Tribonacci Number
       │     └─── 1480. Running Sum of 1D Array 
       ├── medium/
-      │     ├─── 50. Pow(x, n)
-      │     └─── 109. Convert Sorted List to Binary Search Tree
+      │     ├─── --50. Pow(x, n)
+      │     └─── -109. Convert Sorted List to Binary Search Tree
       └── hard/
-            └─── 214. Shortest Palindrome
+            └─── -214. Shortest Palindrome
 ```
 
 ### License
