@@ -1,4 +1,4 @@
-# Leetcode
+# LEETCODE
 
 ```
 ├─── contests/
