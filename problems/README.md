@@ -1,4 +1,4 @@
-# Problem Set
+# Problems
 
 ### Easy 
 
