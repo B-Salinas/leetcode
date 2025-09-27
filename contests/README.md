@@ -1,7 +1,8 @@
 # Contests
 
-## Weekly
+### Weekly
 ⚠️ TO DO: Rename Contests Folders (ie. Mar-18 isn't valid)
 
-## Biweekly
-I will one day be brave enough to attempt these
+### Biweekly
+
+I am not brave enough to attempt these yet ☹︎
