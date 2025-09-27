@@ -1,7 +1,7 @@
 # LEETCODE
 
 
-## License
+### License
 This repository uses a dual-license structure:
 
 - **Code** (all source files): [MIT License](./LICENSE-MIT) © 2025 B Salinas  
