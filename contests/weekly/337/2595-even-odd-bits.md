@@ -1,16 +1,51 @@
-# Number of Even and Odd Bits
+# [2595.](https://leetcode.com/problems/number-of-even-and-odd-bits/description/) Number of Even and Odd Bits
+`Bit Manipulation` `Weekly Contest 337`
 
 You are given a **positive** integer `n`.
 
-Let `even` denote the number of even indices in the binary representation of `n` (**0-indexed**) with value `1`.
+Let `even` denote the number of even indices in the binary representation of `n` with value 1.
 
-Let `odd` denote the number of odd indices in the binary representation of `n` (**0-indexed**) with value `1`.
+Let `odd` denote the number of odd indices in the binary representation of `n` with value 1.
 
-Return an integer array `answer` where `answer = [even, odd]`.
+Note that bits are indexed from **right to left** in the binary representation of a number.
 
-<hr>
+Return the array `[even, odd]`.
 
-```js
+### Constraints
+- `1 <= n <= 1000`
+
+### Examples
+
+##### Example 1
+> Input: `n = 50`  
+> Output: `[1,2]`  
+> Explanation: 
+> The binary representation of 50 is `110010`.
+> It contains 1 on indices 1, 4, and 5.
+
+##### Example 2
+> Input: `n = 2`  
+> Output: `[0,1]`  
+> Explanation:
+> The binary representation of 2 is `10`.
+> It contains 1 only on index 1.
+
+
+
+
+
+
+
+
+
+
+# Submissions
+
+
+
+
+
+```javascript
 
   // read n
     // convert n to binary
@@ -33,6 +68,4 @@ Return an integer array `answer` where `answer = [even, odd]`.
     // magic happens
     
     return answer;
-
-
 ```
