@@ -30,20 +30,11 @@ Return the array `[even, odd]`.
 > The binary representation of 2 is `10`.
 > It contains 1 only on index 1.
 
-
-
-
-
-
-
-
-
+### 💡 Hints
+- Maintain two integer variables, even and odd, to count the number of even and odd indices in the binary representation of integer `n`.
+- Divide `n / 2` while n is positive, and if `n % 2 = 1`, add 1 to its corresponding variable.
 
 # Submissions
-
-
-
-
 
 ```javascript
 
