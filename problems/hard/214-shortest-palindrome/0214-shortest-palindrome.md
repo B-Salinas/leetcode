@@ -23,3 +23,13 @@ Return *the shortest palindrome you can find by performing this transformation*.
 
 # Submissions
 
+```javascript
+/**
+ * @param {string} s
+ * @return {string}
+ */
+
+var shortestPalindrome = function(s) {
+    
+};
+```
