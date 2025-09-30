@@ -1,6 +1,8 @@
 # LEETCODE
 
 ```
+├─── _metadata_/
+│     └─── README.txt (LOG)
 ├─── contests/
 │     ├─── biweekly/
 │     └─── weekly/
