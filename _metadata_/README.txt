@@ -1,20 +1,3 @@
-# YEAR # 
-== SEASON: ❄️ WINTER | 🌸 SPRING | 🌻 SUMMER | 🍂 AUTUMN ==
----- WEEK XX/13 (13 weeks/season) ----
-...... DAY | DATE (MM/DD) ......
-
-		ENTRY LEGEND
-		: timestamp am/pm cst (*** must be first ***)
-		+ good things
-		* general things
-		- not so good things
-		? confusion or questions
-		! connections made or realizations
-		$ valuable things to remember as I progress
-          no character used for spacing and non-tech thoughts
-
---------------------------------------------------------------
-
 # 2 0 2 5 #
 
 == 🍂 AUTUMN ==
@@ -41,3 +24,20 @@
 		Got 100 problems to do before 2025 is up. 
 		Then it's Leet Year 2026, 10 problems/day for the other remaining 3,600. 
 		Let's do this thing.
+
+-------------------------------------------------------------
+
+# YEAR # 
+== SEASON: ❄️ WINTER | 🌸 SPRING | 🌻 SUMMER | 🍂 AUTUMN ==
+---- WEEK XX/13 (13 weeks/season) ----
+...... DAY | DATE (MM/DD) ......
+
+		ENTRY LEGEND
+		: timestamp am/pm cst (*** must be first ***)
+		+ good things
+		* general things
+		- not so good things
+		? confusion or questions
+		! connections made or realizations
+		$ valuable things to remember as I progress
+          no character used for spacing and non-tech thoughts
