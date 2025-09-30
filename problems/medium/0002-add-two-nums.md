@@ -33,7 +33,8 @@ Explanation: `9,999,999 + 9,999 = 10,009,998`
 - **Runtime**: 7 ms | Beats 31.33 %  
 - **Time Complexity**: `O(Max(M,N))`  
 - **Memory**: 18.04 MB  | Beats 14.57 %  
-- **Space Complexity**: `O(Max(M,N))` 
+- **Space Complexity**: `O(Max(M,N))`
+- **Resources Used**: Neetcode's Walkthrough [Video](https://www.youtube.com/watch?v=wgFPrzTjm7s)
 
 ```python3
 # Definition for singly-linked list.
@@ -70,7 +71,8 @@ class Solution:
 - **Runtime**: 7 ms | Beats 31.33 %  
 - **Time Complexity**: `O(Max(M,N))`  
 - **Memory**: 17.74 MB  | Beats 84.79 %      
-- **Space Complexity**: `O(Max(M,N))`     
+- **Space Complexity**: `O(Max(M,N))`
+- **Resources Used**: ChatGPT
 
 ```python3
 # Definition for singly-linked list.
