@@ -9,7 +9,7 @@ problems/
     │     └─── 1480. Running Sum of 1D Array 
     ├── medium/
     │     ├─── 0002. Add Two Numbers
-    │     ├─── 0050. Pow(x, n)
+    │     ├─── 0050. Pow(x,n)
     │     └─── 0109. Convert Sorted List to Binary Search Tree
     └── hard/
           └─── 0214. Shortest Palindrome
