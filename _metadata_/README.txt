@@ -1,10 +1,9 @@
 # YEAR # 
 == SEASON: ❄️ WINTER | 🌸 SPRING | 🌻 SUMMER | 🍂 AUTUMN ==
 ---- WEEK XX/13 (13 weeks/season) ----
-
-		DAY | DATE (MM/DD)
+...... DAY | DATE (MM/DD) ......
 		: timestamp am/pm cst
-
+		
 		ENTRY LEGEND
 		* general
 		: timestamp
@@ -19,7 +18,8 @@
 # 2 0 2 5 #
 == 🍂 AUTUMN ==
 ---- WEEK 02/13 ----
-		TUE | 09/30
+...... TUE | 09/30 ......
+
 		: 4:22pm cst
 		Finally at my computer. 
 		Changed the characters for the formatting after all. 
