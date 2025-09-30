@@ -26,9 +26,9 @@ You can return the answer in any order.
 > Explanation: Because `nums[1] + nums[2] = 6`, we return `[1,2]`.
 
 ##### Example 3:
-> Input: `nums = [3,3]`, `target = 6`
-> Output: [0,1]
-> Explanation:  Because `nums[0] + nums[1] = 6`, we return `[0,1]`.
+> Input: `nums = [3,3]`, `target = 6`  
+> Output: `[0,1]`  
+> Explanation:  Because `nums[0] + nums[1] = 6`, we return `[0,1]`.  
 
 ##### Can you come up with an algorithm that is less than `O(n^2^)` time complexity?
 
