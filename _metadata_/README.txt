@@ -2,22 +2,25 @@
 == SEASON: ❄️ WINTER | 🌸 SPRING | 🌻 SUMMER | 🍂 AUTUMN ==
 ---- WEEK XX/13 (13 weeks/season) ----
 ...... DAY | DATE (MM/DD) ......
-		: timestamp am/pm cst
-		
+
 		ENTRY LEGEND
-		* general
-		: timestamp
+		: timestamp am/pm cst (*** must be first ***)
 		+ good things
+		* general things
 		- not so good things
 		? confusion or questions
 		! connections made or realizations
 		$ valuable things to remember as I progress
+          no character used for spacing and non-tech thoughts
 
 --------------------------------------------------------------
 
 # 2 0 2 5 #
+
 == 🍂 AUTUMN ==
+
 ---- WEEK 02/13 ----
+
 ...... TUE | 09/30 ......
 
 		: 4:22pm cst
