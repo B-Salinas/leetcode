@@ -6,7 +6,7 @@ You are given two **non-empty** linked lists representing two non-negative integ
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-## Constraints
+#### Constraints
 * The number of nodes in each linked list is in range `[1, 100]`.
 * `0 <= Node.val <= 9`
 * It is guaranteed that the list represents a number that does not have leading zeros.
@@ -26,17 +26,21 @@ Explanation: `0 + 0 = 0`
 #### Example 3
 Input: `l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]`    
 Output: `[8,9,9,9,0,0,0,1]`    
-Explanation: `9,999,999 + 9,999 = 10,009,998`    
+Explanation: `9,999,999 + 9,999 = 10,009,998` 
 
-## Submissions
+# Submissions
 
-#### Submission 1
-> 09/29/2025 ** don't think like
+### Submission 1
+> 09/29/2025 - 10:40 PM CST
 
-**Runtime**: 7 ms  | Beats 31.33% | `O(Max(M,N))`  
-**Memory**: 18.04 MB | Beats 14.57% | `O(Max(M,N))` 
+**Performance**  
+- `Runtime`: 7 ms | Beats 31.33 %  
+- `Memory`: 18.04 MB  | Beats 14.57 %  
 
-**Runtime**: 7 ms (31.33%) - O(Max(M,N)) | **Memory**: 18.04 MB (14.57%) - O(Max(M,N))
+**Complexity**  
+- `Time`: `O(Max(M,N))`  
+- `Space`: `O(Max(M,N))`  
+
 
 ```python3
 # Definition for singly-linked list.
