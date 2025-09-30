@@ -1,7 +1,6 @@
 # 2. Add Two Numbers
 `Linked List` `Math` `Recursion` 
 
-## Description
 You are given two **non-empty** linked lists representing two non-negative integers. The digits are stored in **reverse order**, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list. 
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
@@ -10,8 +9,6 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 * The number of nodes in each linked list is in range `[1, 100]`.
 * `0 <= Node.val <= 9`
 * It is guaranteed that the list represents a number that does not have leading zeros.
-
-## Examples
 
 #### Example 1
 Input: `l1 = [2,4,3], l2 = [5,6,4]`   
@@ -28,18 +25,13 @@ Input: `l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]`
 Output: `[8,9,9,9,0,0,0,1]`    
 Explanation: `9,999,999 + 9,999 = 10,009,998` 
 
-# Submissions
+---
 
-### Submission 1
-> 09/29/2025 - 10:40 PM CST
-
-**Performance**  
-- `Runtime`: 7 ms | Beats 31.33 %  
-- `Memory`: 18.04 MB  | Beats 14.57 %  
-
-**Complexity**  
-- `Time`: `O(Max(M,N))`  
-- `Space`: `O(Max(M,N))`  
+**Submission**: 09/29/2025 10:40 PM CST   
+**Runtime**: 7 ms | Beats 31.33 %      
+**Memory**: 18.04 MB  | Beats 14.57 %      
+**Time**: `O(Max(M,N))`  
+**Space**: `O(Max(M,N))`      
 
 
 ```python3
