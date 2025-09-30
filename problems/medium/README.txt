@@ -1,3 +1,3 @@
 Medium Problem Topics
 
-0002. TWO SUM: Linked List, Math, Recursion
+0002. ADD TWO NUMBERS: Linked List, Math, Recursion
