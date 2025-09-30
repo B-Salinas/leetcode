@@ -28,4 +28,42 @@ Input: `l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]`
 Output: `[8,9,9,9,0,0,0,1]`    
 Explanation: `9,999,999 + 9,999 = 10,009,998`    
 
+## Submissions
 
+#### Submission 1
+> 09/29/2025 ** don't think like
+
+**Runtime**: 7 ms  | Beats 31.33% | `O(Max(M,N))`  
+**Memory**: 18.04 MB | Beats 14.57% | `O(Max(M,N))` 
+
+**Runtime**: 7 ms (31.33%) - O(Max(M,N)) | **Memory**: 18.04 MB (14.57%) - O(Max(M,N))
+
+```python3
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+
+        res = ListNode()                    # returning new List
+        cur = res                           # current pointer at the position we insert new node
+        
+        carry = 0                           # for carrying over
+        while l1 or l2 or carry:            # adding together while either has a digit
+            v1 = l1.val if l1 else 0        # as long as l1 are not null
+            v2 = l2.val if l2 else 0        # as long as l2 are not null
+        
+            val = v1 + v2 + carry            # this will get inserted into res
+            carry = val // 10               # if vl3 needs a carry
+            val = val % 10                  # we technically only want the ones place
+
+            cur.next = ListNode(val)        # move pointer
+
+            cur = cur.next                  
+            l1 = l1.next if l1 else None        
+            l2 = l2.next if l2 else None 
+
+        return res.next
+```
