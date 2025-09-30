@@ -22,7 +22,7 @@ Implement pow(x, n), which calculates `x` raised to the power `n` (i.e., `x^n^`)
 
 ##### Example 3:
 > Input: x = 2.00000, n = -2  
-> OUtput: 0.25000  
+> Output: 0.25000  
 > Explanation: 2^-2^ = 1/2^2^ = 1/4 = 0.25  
 
 # Submissions
