@@ -28,6 +28,7 @@
         │     ├─── * 1480. Running Sum of 1D Array
         │     ├─── 2235. Add Two Integers
         │     └─── 2595. Number of Even and Odd Bits
+		│ 
         ├── medium/
         │     ├─── 0002. Add Two Numbers
         │     ├─── 0050. Pow(x,n)
@@ -39,6 +40,7 @@
         │     ├─── 2597. The Number of Beautiful Subsets
         │     ├─── 2598. Smallest Missung Non-negative Integer After Operations
         │     └─── 2601. Prime Subtraction Operation
+		│ 
         └── hard/
               └─── * 0214. Shortest Palindrome
 
