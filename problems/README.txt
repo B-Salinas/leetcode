@@ -8,32 +8,31 @@ easy/
   ├─── 0217. Contains Duplicate
   ├─── 0448. Find All Numbers Disappeared in an Array
   ├─── 0509. Fibonacci Number
-  ├─── * 0724. Find Pivot Index 
+  ├─── 0724. [*] Find Pivot Index
   ├─── 1137. N-th Tribonacci Number
-  ├─── * 1480. Running Sum of 1D Array
+  ├─── 1480. [*] Running Sum of 1D Array
   ├─── 2235. Add Two Integers
-  └─── ! 2595. Number of Even and Odd Bits
-
-
+  └─── 2595. [w337] Number of Even and Odd Bits 
 
 medium/
   ├─── 0002. Add Two Numbers
   ├─── 0050. Pow(x,n)
-  ├─── * 0109. Convert Sorted List to Binary Search Tree
+  ├─── 0109. [*] Convert Sorted List to Binary Search Tree
   ├─── 0192. Word Frequency
   ├─── 1813. Sentence Similarity III
   ├─── 2516. Take K of Each Character From Left and Right
-  ├─── ! 2596. Check Knight Tour Configuration
-  ├─── ! 2597. The Number of Beautiful Subsets
-  ├─── ! 2598. Smallest Missung Non-negative Integer After Operations
+  ├─── 2596. [w337] Check Knight Tour Configuration 
+  ├─── 2597. [w337] The Number of Beautiful Subsets 
+  ├─── 2598. [w337] Smallest Missung Non-negative Integer After Operations
   └─── 2601. Prime Subtraction Operation
 
-
-
 hard/
-  └─── * 0214. Shortest Palindrome
+  └─── 0214. [*] Shortest Palindrome
 
+----------------------------------------
+|  note divider
+[] note container
 
-
-* Not in leetcode practice history
-! Weekly Contest 337
+*  not in leetcode practice history
+w  weekly contest 
+b  biweekly contest
