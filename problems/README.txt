@@ -19,5 +19,7 @@ problems/
     │     ├─── 0050. Pow(x,n)
     │     └─── 0109. Convert Sorted List to Binary Search Tree
     └── hard/
-          └─── 0214. Shortest Palindrome
+          └─── * 0214. Shortest Palindrome
 
+* Not in leetcode practice history
+! Weekly Contest 337
