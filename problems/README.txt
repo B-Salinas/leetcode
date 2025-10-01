@@ -29,10 +29,9 @@ medium/
 hard/
   └─── 0214. [*] Shortest Palindrome
 
-----------------------------------------
-|  note divider
-[] note container
 
-*  not in leetcode practice history
-w  weekly contest 
-b  biweekly contest
+LEGEND
+[ ] note container
+
+*   not in leetcode practice history
+w   weekly contest
