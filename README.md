@@ -42,9 +42,9 @@ See the individual license files for full text.
 
 ---
 
-<p align="center">
+<div align=center>
     
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)  
 © 2025 B Salinas 
 
-</p>
+</div>
