@@ -1,14 +1,14 @@
 # [50.](https://leetcode.com/problems/powx-n/) Pow(x,n)
 `Math` `Recursion`
 
-Implement pow(x, n), which calculates `x` raised to the power `n` (i.e., `x^n^`).
+Implement pow(x, n), which calculates `x` raised to the power `n` (i.e., <code>x<sup>n</sup></code>).
 
 ### Constraints
 - `-100.0 < x < 100.0`
--  `-2^31^ <= n <= 2^31^-1`
+- <code> -2<sup>31</sup> <= n <= 2<sup>31</sup>-1 </code>
 - `n` is an integer.
 - Either `x` is not zero or `n > 0`.
-- `-10^4^ <= x^n^ <= 10^4^`
+- <code> -10<sup>4</sup> <= x<sup>n</sup> <= 10<sup>4</sup> </code>
 
 ### Examples
 
@@ -23,9 +23,13 @@ Implement pow(x, n), which calculates `x` raised to the power `n` (i.e., `x^n^`)
 ##### Example 3:
 > Input: x = 2.00000, n = -2  
 > Output: 0.25000  
-> Explanation: 2^-2^ = 1/2^2^ = 1/4 = 0.25  
+> Explanation: 2<sup>-2</sup> = 1/2<sup>2</sup> = 1/4 = 0.25
 
 # Submissions
+
+**2014-11-19** @ 6:21 am cst  
+- **Runtime**: 0 ms | 100.00% | O(Log(N))  
+- **Memory**: 48.90 MB | 100.00% | O(Log(N))  
 
 ```javascript
 /**
@@ -58,4 +62,32 @@ var myPow = function(x, n) {
     }
 }
 ```
+**2024-11-19** @ 6:34 am cst
+- **Runtime**: 0 ms | 100.00%
+- **Memory**: 49.98 MB | 100.00%
+
+```javascript
+/**
+ * @param {number} x
+ * @param {number} n
+ * @return {number}
+ */
+var myPow = function(x, n) {
+    if (n === 0) return 1;
+    
+    let absN = Math.abs(n);
+    let result = 1;
+    
+    while (absN > 0) {
+        if (absN % 2 === 1) {
+            result *= x;
+        }
+        x *= x;
+        absN = Math.floor(absN / 2);
+    }
+    
+    return n < 0 ? 1/result : result;
+};
+```
+
 
