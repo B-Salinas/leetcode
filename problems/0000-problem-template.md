@@ -35,4 +35,6 @@ Description
 ##### DAYDATE @ TIMESTAMP am/pm cst
 - **Runtime**: ms | % | O(?)
 - **Memory**: MB | % | O(?)
-- **Resources**: if any
+- **Resources Used**: if any
+
+# Other
