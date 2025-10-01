@@ -13,3 +13,6 @@ problems/
     │     └─── 0109. Convert Sorted List to Binary Search Tree
     └── hard/
           └─── 0214. Shortest Palindrome
+
+TO DO 
+- [ ] update tree
