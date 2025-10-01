@@ -6,6 +6,10 @@
 
 ...... TUE | 10/01 ......
 
+		: 6:14 am cst
+		All folders are only 1 deep.
+		Made a new branch called 'nuketown' - about to merge it.
+
 		: 5:01 am cst
 		I spent most of yesterday refactoring and working on this repo. 
 		I completely nuked the easy/ folder I had in an effort to start over and that's when I realized I was becoming super frustrated.
@@ -45,7 +49,7 @@
 ---- WEEK XX/13 (13 weeks/season) ----
 ...... DAY | DATE (MM/DD) ......
 
-		ENTRY LEGEND
+		LEGEND
 		: timestamp am/pm cst (*** must be first ***)
 		+ good things
 		* general things
