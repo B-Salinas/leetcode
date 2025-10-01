@@ -1,53 +1,111 @@
 # LEETCODE
 
 ```
-├─── _metadata_/
-│       ├─── PLAN.md
-│       └─── README.txt
-├─── contests/
-│       ├─── biweekly/
-│       └─── weekly/
-│             └─── 337/
-│                   ├─── 2595. Number of Even and Odd Bits
-│                   ├─── 2596. Check Knight Tour Configuration
-│                   ├─── 2597. The Number of Beautiful Subsets
-│                   └─── 2598. Smallest Missing Non-Negative Integer After Operations
-└─── problems/
-	    ├── easy/
-        │     ├─── 0001. Two Sum
-        │     ├─── 0020. Valid Parenthese
-        │     ├─── 0069. Sqrt(x)
-        │     ├─── 0070. Climbing Stairs
-        │     ├─── 0108. Convert Sorted Array to Binary Search Tree
-        │     ├─── 0195. Tenth Line
-        │     ├─── 0217. Contains Duplicate
-        │     ├─── 0448. Find All Numbers Disappeared in an Array
-        │     ├─── 0509. Fibonacci Number
-        │     ├─── 0724. [*] Find Pivot Index 
-        │     ├─── 1137. N-th Tribonacci Number
-        │     ├─── 1480. [*] Running Sum of 1D Array
-        │     ├─── 2235. Add Two Integers
-        │     └─── 2595. [w337] Number of Even and Odd Bits
-		│ 
-        ├── medium/
-        │     ├─── 0002. Add Two Numbers
-        │     ├─── 0050. Pow(x,n)
-        │     ├─── 0109. [*] Convert Sorted List to Binary Search Tree
-        │     ├─── 0192. Word Frequency
-        │     ├─── 1813. Sentence Similarity III
-        │     ├─── 2516. Take K of Each Character From Left and Right
-        │     ├─── 2596. [w337] Check Knight Tour Configuration
-        │     ├─── 2597. [w337] The Number of Beautiful Subsets
-        │     ├─── 2598. [w337] Smallest Missung Non-negative Integer After Operations
-        │     └─── 2601. Prime Subtraction Operation
-		│ 
-        └── hard/
-              └─── 0214. [*] Shortest Palindrome
+100 days until 2026
 
-LEGEND
-[ ] note container
-*   not in leetcode practice history
-w   weekly contest
+easy
+- [ ] 0001. Two Sum
+- [ ] 0009. Palindrome Number
+- [ ] 0013. Roman to Integer
+- [ ] 0035. Search Insert Position
+- [ ] 0066. Plus One
+- [ ] 0067. Add Binary
+- [ ] 0069. Sqrt(x)
+- [ ] 0070. Climbing Stairs
+- [ ] 0104. Maximum Depth of Binary Tree
+- [ ] 0111. Minimum Depth of Binary Tree
+- [ ] 0112. Path Sum
+- [ ] 0118. Pascal's Triangle
+- [ ] 0119. Pascal's Triangle II
+- [ ] 0121. Best Time to Buy and Sell Stock
+- [ ] 0191. Number of 1 Bits
+- [ ] 0198. House Robber
+- [ ] 0200. Number of Islands
+- [ ] 0202. Happy Number
+- [ ] 0205. Isomorphic Strings
+- [ ] 0217. Contains Duplicate
+- [ ] 0219. Contains Duplicate II
+- [ ] 0231. Power of Two
+- [ ] 0242. Valid Anagram
+- [ ] 0257. Binary Tree Paths
+- [ ] 0268. Missing Number
+- [ ] 0278. First Bad Version
+- [ ] 0283. Move Zeros
+- [ ] 0303. Range Sum Query - Immutable
+- [ ] 0326. Power of Three
+- [ ] 0349. Intersection of Two Arrays
+- [ ] 0350. Intersection of Two Arrays II
+- [ ] 0367. Valid Perfect Square
+- [ ] 0387. First Unique Character in a String
+- [ ] 0392. Is Subsequence
+- [ ] 0409. Longest Palindrome
+- [ ] 0415. Add Strings
+- [ ] 0455. Assign Cookies
+- [ ] 0463. Island Perimeter
+- [ ] 0485. Max Consecutive Ones
+- [ ] 0504. Base 7
+- [ ] 0509. Fibonacci Number
+- [ ] 0561. Array Partition
+- [ ] 0695. Max Area of Island
+- [ ] 0704. Binary Search
+- [ ] 0706. Design HashMap
+- [ ] 0733. Flood Fill
+- [ ] 0744. Find Smallest Letter Greater Than Target
+- [ ] 0746. Min Cost Climbing Stairs
+- [ ] 0841. Keys and Rooms
+- [ ] 0852. Peak Index in a Mountain Array
+- [ ] 0860. Lemonade Change
+- [ ] 0944. Delete Columns to Make Sorted
+- [ ] 0989. Add to Array-Form of Integer
+- [ ] 0997. Find the Town Judge
+- [ ] 1025. Divisor Game
+- [ ] 1217. Minimum Cost to Move Chips to The Same Position
+- [ ] 1221. Split a String in Balanced Strings
+- [ ] 1365. How Many Numbers Are Smaller Than the Current Number
+- [ ] 2022. Jewels and Stones
+
+medium
+- [ ] 0003. Longest Substring Without Repeating Characters
+- [ ] 0005. Longest Palindrome Substring
+- [ ] 0029. Divide Two Integers
+- [ ] 0033. Search in Rotated Sorted Array
+- [ ] 0034. Find First and Last Position of Element in Sorted Array
+- [ ] 0049. Group Anagrams
+- [ ] 0050. Pow(x,n)
+- [ ] 0055. Jump Game
+- [ ] 0062. Unique Paths
+- [ ] 0063. Unique Paths II
+- [ ] 0064. Minimum Path Sum
+- [ ] 0091. Decode Ways
+- [ ] 0098. Validate Binary Search Tree
+- [ ] 0102. Binary Tree Level Order Traversal
+- [ ] 0122. Best Time to Buy and Sell Stock II
+- [ ] 0134. Gas Station
+- [ ] 0153. Find Minimum in Rotated Sorted Array
+- [ ] 0162. Find Peak Element
+- [ ] 0201. Bitwise AND of Numbers Range
+- [ ] 0207. Course Schedule
+- [ ] 0210. Course Schedule II
+- [ ] 0236. Lowest Common Ancestor of a Binary Tree
+- [ ] 0300. Longest Increasing Subsequence
+- [ ] 0322. Coin Change
+- [ ] 0343. Integer Break
+- [ ] 0347. Top K Frequent Elements
+- [ ] 0435. Non-overlapping Intervals
+- [ ] 0452. Minimum Number of Arrows to Burst Balloons
+- [ ] 0560. Subarray Sum Equals K
+ 
+hard
+- [ ] 0004. Median of Two Sorted Arrays
+- [ ] 0010. Regular Expression Matching
+- [ ] 0023. Merge k Sorted Lists
+- [ ] 0072. Edit Distance
+- [ ] 0135. Candy
+- [ ] 0269. Alien Dictionary
+- [ ] 0312. Burst Balloons
+- [ ] 0410. Split Array Largest Sum
+- [ ] 0630. Course Schedule III
+- [ ] 1547. Minimum Cost to Cut a Stick
 ```
 
 ## License
@@ -62,12 +120,3 @@ You are free to use, adapt, and share the written content under CC BY 4.0, provi
 See the individual license files for full text. 
 
 <p align=center> <b> Happy Leeting! ☺︎ </b> </p>
-
----
-
-<div align=center>
-    
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)  
-© 2025 B Salinas 
-
-</div>
