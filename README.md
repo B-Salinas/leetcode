@@ -2,7 +2,8 @@
 
 ```
 ├─── _metadata_/
-│     └─── README.txt (LOG)
+│     ├─── PLAN.md
+│     └─── README.txt
 ├─── contests/
 │     ├─── biweekly/
 │     └─── weekly/
