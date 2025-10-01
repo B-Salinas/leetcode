@@ -32,6 +32,5 @@ hard/
 
 LEGEND
 [ ] note container
-
 *   not in leetcode practice history
 w   weekly contest
