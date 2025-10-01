@@ -11,6 +11,3 @@ easy/
   ├─── 1137. N-th Tribonacci Number
   ├─── 2235. Add Two Integers
   └─── 2595. Number of Even and Odd Bits
-
-TO DO
-- [ ] add submissions
