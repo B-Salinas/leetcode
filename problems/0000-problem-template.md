@@ -1,7 +1,9 @@
-# [#.](leetcode problem link) Leetcode Question Title
+# []()
 `topic 1` `topic 2` `topic 3`
 
 Description
+
+> Definitions, if any
 
 ### Constraints
 -
@@ -26,4 +28,11 @@ Description
 > Output: `placeholder`    
 > Explanation:  
 
+### 💡 Hints, if any
+
 # Submissions
+
+##### DAYDATE @ TIMESTAMP am/pm cst
+- **Runtime**: ms | % | O(?)
+- **Memory**: MB | % | O(?)
+- **Resources**: if any
