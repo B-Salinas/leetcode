@@ -1,10 +1,8 @@
 # 2 0 2 5 #
-
 == 🍂 AUTUMN ==
-
 ---- WEEK 02/13 ----
 
-...... TUE | 10/01 ......
+...... WED | 10/01 ......
 
 		: 6:14 am cst
 		All folders are only 1 deep.
