@@ -6,13 +6,13 @@
 
 ...... TUE | 09/30 ......
 
-		: 4:22pm cst
+		: 4:22 pm cst
 		Finally at my computer. 
 		Changed the characters for the formatting after all. 
 		Going to devise a legend maybe, but I still way a lot of formatting to do with what already exists before I can start doing problems. 
 		I want to get my system down nice and easy first. 
 		
-		: 2:30pm cst
+		: 2:30 pm cst
 		First entry. 
 		Typing and formatting on my phone (THANK GOD FOR WORD WRAP) with Github Mobile. 
 		Not the biggest fan of the characters I'm using for separators so far but they are just placeholders for the time being. 
