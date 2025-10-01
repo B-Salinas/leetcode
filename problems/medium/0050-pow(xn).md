@@ -31,7 +31,8 @@ Implement pow(x, n), which calculates `x` raised to the power `n` (i.e., <code>x
 
 #### 2014-11-19 @ 6:21 am cst  
 - **Runtime**: 0 ms | 100.00% | O(Log(N))  
-- **Memory**: 48.90 MB | 100.00% | O(Log(N))  
+- **Memory**: 48.90 MB | 100.00% | O(Log(N))
+- **Resources Used**: ChatGPT
 
 ```javascript
 /**
@@ -67,6 +68,7 @@ var myPow = function(x, n) {
 #### 2024-11-19 @ 6:34 am cst
 - **Runtime**: 0 ms | 100.00%
 - **Memory**: 49.98 MB | 100.00%
+- **Resources Used**: ChatGPT
 
 ```javascript
 /**
