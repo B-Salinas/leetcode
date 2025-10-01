@@ -24,6 +24,7 @@ problems/
     │     ├─── 2516. Take K of Each Character From Left and Right
     │     ├─── ! 2596. Check Knight Tour Configuration
     │     ├─── ! 2597. The Number of Beautiful Subsets
+    │     ├─── ! 2598. Smallest Missung Non-negative Integer After Operations
     │     └─── 2601. Prime Subtraction Operation
     │
     └── hard/
