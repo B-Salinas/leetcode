@@ -28,13 +28,11 @@ Description
 > Output: `placeholder`    
 > Explanation:  
 
-### 💡 Hints, if any
+### 💡 Hints
 
 # Submissions
 
 ##### DAYDATE @ TIMESTAMP am/pm cst
 - **Runtime**: ms | % | O(?)
 - **Memory**: MB | % | O(?)
-- **Resources Used**: if any
-
-# Other
+- **Resources Used**:
