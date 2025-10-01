@@ -39,3 +39,12 @@ You are free to use, adapt, and share the written content under CC BY 4.0, provi
 See the individual license files for full text. 
 
 <p align=center> <b> Happy Leeting! ☺︎ </b> </p>
+
+---
+
+<p align="center">
+    
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)  
+© 2025 B Salinas 
+
+</p>
