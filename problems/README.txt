@@ -14,6 +14,7 @@ problems/
     │     ├─── * 1480. Running Sum of 1D Array
     │     ├─── 2235. Add Two Integers
     │     └─── ! 2595. Number of Even and Odd Bits
+    │
     ├── medium/
     │     ├─── 0002. Add Two Numbers
     │     ├─── 0050. Pow(x,n)
@@ -24,6 +25,7 @@ problems/
     │     ├─── ! 2596. Check Knight Tour Configuration
     │     ├─── ! 2597. The Number of Beautiful Subsets
     │     └─── 2601. Prime Subtraction Operation
+    │
     └── hard/
           └─── * 0214. Shortest Palindrome
 
