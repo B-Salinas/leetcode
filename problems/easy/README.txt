@@ -8,6 +8,11 @@ easy/
   ├─── 0217. Contains Duplicate
   ├─── 0448. Find All Numbers Disappeared in an Array
   ├─── 0509. Fibonacci Number
+  ├─── * 0724. Find Pivot Index 
   ├─── 1137. N-th Tribonacci Number
+  ├─── * 1480. Running Sum of 1D Array
   ├─── 2235. Add Two Integers
-  └─── 2595. Number of Even and Odd Bits
+  └─── ! 2595. Number of Even and Odd Bits
+
+* Not found in my leetcode practice history
+! Weekly Contest 337
