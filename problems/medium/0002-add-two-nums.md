@@ -29,9 +29,9 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 # Submissions
 
-**2025-09-29** @ 10:40 PM CST   
-- **Runtime**: 7 ms (31.33%) @ `O(Max(M,N))` 
-- **Memory**: 18.04 MB (14.57%) @ `O(Max(M,N))` 
+#### 2025-09-29 @ 10:40 PM CST   
+- **Runtime**: 7 ms | 31.33% | O(Max(M,N))
+- **Memory**: 18.04 MB | 14.57% | O(Max(M,N)) 
 - **Resources Used**: Neetcode's Walkthrough [Video](https://www.youtube.com/watch?v=wgFPrzTjm7s)
 
 ```python3
@@ -65,9 +65,9 @@ class Solution:
         return res.next                    
 ```
 
-**2025-09-30** @ 12:19 AM CST   
-- **Runtime**: 7 ms (31.33%) @  `O(Max(M,N))`  
-- **Memory**: 17.74 MB (84.79%) @ `O(Max(M,N))`   
+#### 2025-09-30 @ 12:19 AM CST   
+- **Runtime**: 7 ms | 31.33% | O(Max(M,N))  
+- **Memory**: 17.74 MB | 84.79% | O(Max(M,N))  
 - **Resources Used**: ChatGPT
 
 ```python3
