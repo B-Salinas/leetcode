@@ -1,4 +1,4 @@
-# [50.](https://leetcode.com/problems/powx-n/) Pow(x,n)
+# [0050.](https://leetcode.com/problems/powx-n/) Pow(x,n)
 `Math` `Recursion`
 
 Implement pow(x, n), which calculates `x` raised to the power `n` (i.e., <code>x<sup>n</sup></code>).
@@ -24,6 +24,8 @@ Implement pow(x, n), which calculates `x` raised to the power `n` (i.e., <code>x
 > Input: x = 2.00000, n = -2  
 > Output: 0.25000  
 > Explanation: 2<sup>-2</sup> = 1/2<sup>2</sup> = 1/4 = 0.25
+
+### 💡 Hints
 
 # Submissions
 
@@ -89,5 +91,3 @@ var myPow = function(x, n) {
     return n < 0 ? 1/result : result;
 };
 ```
-
-
