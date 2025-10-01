@@ -14,5 +14,5 @@ easy/
   ├─── 2235. Add Two Integers
   └─── ! 2595. Number of Even and Odd Bits
 
-* Not found in my leetcode practice history
+* Not in leetcode practice history
 ! Weekly Contest 337
