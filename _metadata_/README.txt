@@ -4,6 +4,19 @@
 
 ---- WEEK 02/13 ----
 
+...... TUE | 10/01 ......
+
+		: 5:01 am cst
+		I spent most of yesterday refactoring and working on this repo. 
+		I completely nuked the easy/ folder I had in an effort to start over and that's when I realized I was becoming super frustrated.
+		I have been refactoring for almost a week and I haven't started on any leetcode bc my environment wasn't set up.
+		I was so focused on making the repo simple so it could scale.
+		I called it a night, relaxed, watched a movie (KPop Demon Hunters), and then showered when I realized: I was trying to create an exact COPY of something that already existed. 
+		The plan is to nuke the repo and only have it be one layer deep.
+		All will be understood when I'm done.
+		And then I'm going to sleep.
+		Goodnight!
+
 ...... TUE | 09/30 ......
 
 		: 4:22 pm cst
