@@ -39,16 +39,37 @@ easy/
   │     ├─── 2025-09-26: WRONG ANSWER
   │     └─── 2025-09-26: WRONG ANSWER
   ├─── 0217. Contains Duplicate
+  │     └─── 2025-09-26: 21 ms | 71.1 MB
   ├─── 0448. Find All Numbers Disappeared in an Array
+  │     ├─── 2021-06-23: 6660 ms | 50.1 MB
+  │     ├─── 2021-06-23: WRONG ANSWER
+  │     └─── 2021-06-23: TIME LIMIT EXCEEDED
   ├─── 0509. Fibonacci Number
+  │     └─── 2024-09-20: 58 ms | 49.1 MB
   ├─── 0724. [*] Find Pivot Index
   ├─── 1137. N-th Tribonacci Number
+  │     ├─── 2023-10-11: TIME LIMIT EXCEEDED
+  │     ├─── 2023-10-11: RUNTIME ERROR
+  │     ├─── 2024-09-20: TIME LIMIT EXCEEDED
+  │     ├─── 2024-09-20: 48 ms | 48.8 MB
+  │     └─── 2024-09-20: 41 ms | 48.6 MB
   ├─── 1480. [*] Running Sum of 1D Array
   ├─── 2235. Add Two Integers
+  │     ├─── 2023-07-04: 52 ms | 41.7 MB
+  │     └─── 2023-07-04: 65 ms | 42 MB
   └─── 2595. [w337] Number of Even and Odd Bits 
 
 medium/
   ├─── 0002. Add Two Numbers
+  │     ├─── 2025-09-29: RUNTIME ERROR
+  │     ├─── 2025-09-29: RUNTIME ERROR
+  │     ├─── 2025-09-29: RUNTIME ERROR
+  │     ├─── 2025-09-29: WRONG ANSWER
+  │     ├─── 2025-09-29: WRONG ANSWER
+  │     ├─── 2025-09-29: 7 ms | 18 MB
+  │     ├─── 2025-09-30: WRONG ANSWER
+  │     ├─── 2025-09-30: RUNTIME ERROR
+  │     └─── 2025-09-30: 7 ms | 17.7 MB
   ├─── 0050. Pow(x,n)
   ├─── 0109. [*] Convert Sorted List to Binary Search Tree
   ├─── 0192. Word Frequency
